@@ -157,6 +157,7 @@ h2::after {
     font-size: 1.1em;
     line-height: 1.8;
     color: #555;
+    text-align: justify;
 }
 
 .experience-item, .project-item {
